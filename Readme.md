@@ -47,8 +47,4 @@ npm start
 
 Frontend server will run on <http://localhost:4200>
 
-## Learn more
 
-You can find the tutorial for this application on my blog -
-
-<https://www.callicoder.com/spring-boot-mongodb-angular-js-rest-api-tutorial/>
